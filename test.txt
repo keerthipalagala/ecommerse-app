@@ -3,3 +3,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/keerthipalagala/ecommerse-app.git
 git push -u origin main
+tateful means the system remembers past interactions (e.g., online banking), while stateless treats every request as completely new and independent (e.g., a standard
